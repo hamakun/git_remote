@@ -1,9 +1,9 @@
 자기소개
 -------------
-이름 : 
+이름 : 윤기태 
 
-팀 :
+팀 : 동방신기
 
-github id :
+github id : 미드킹
 
-e-mail :
+e-mail : yun30081@gmail.com
